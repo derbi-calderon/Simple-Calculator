@@ -1,5 +1,5 @@
 # Simple-Calculator
-Click here [Simple Calculator](https://lovelight-247.github.io/Simple-Calculator/) To see it in action!
+Click here [Simple Calculator](https://derbi-calderon.github.io/Simple-Calculator/) To see it in action!
 <br>
 About: Click on the screen and calculate 😃
 ## Screenshots
